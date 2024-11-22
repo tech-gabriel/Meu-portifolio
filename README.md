@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/captura-de-tela-portfolio.png)
 
-<h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://tech-gabriel.github.io/Meu-portifolio/">Confira o projeto aqui</a></h4>
 
 ---
 
